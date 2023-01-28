@@ -32,5 +32,5 @@ Project to test different build system environments for FPGA.
   * https://github.com/hdl-util/hdmi
 * see also
   * https://github.com/halfmanhalftaco/fpga-docker :  Containers with propietary tools
-  * https://github.com/stnolting/neorv32-setups : TCL template scripts for propietary tools
+  * https://github.com/stnolting/neorv32-setups : TCL template scripts for propietary tools projects creation
   * 
