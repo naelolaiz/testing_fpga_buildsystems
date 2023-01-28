@@ -30,3 +30,5 @@ Project to test different build system environments for FPGA.
   * https://github.com/naelolaiz/learning_fpga
 * hdlmake + multisim github action example:
   * https://github.com/hdl-util/hdmi
+* see also
+  * https://github.com/stnolting/neorv32-setups !!!
