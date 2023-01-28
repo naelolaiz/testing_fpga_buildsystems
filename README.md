@@ -1,19 +1,20 @@
+# Testing build system environments for FPGA
 Project to test different build system environments for FPGA.
 
-Possibilities to explore:
- * hdlmake
- * cmake
-Tools:
- * open source
-   * ghdl (included in hdltools)
-   * yosys (included in hdltools)
-   * openFPGA (TODO: include in hdltools?)
-   * gtkwave (included in hdltools)
-   * netlist2svg (https://github.com/nturley/netlistsvg ; included in hdltools)
-   * vcd2png (https://github.com/naelolaiz/hdltools/blob/main/vcd2png.py)
-   * gtkwavexport (https://github.com/naelolaiz/learning_fpga/blob/main/scripts/gtkwave_export.py; vcd2png.py in hdltools)
- * ...
- * multisim?
+* Possibilities to explore:
+  * hdlmake
+  * cmake
+* Tools:
+  * open source
+    * ghdl (included in hdltools)
+    * yosys (included in hdltools)
+    * openFPGA (TODO: include in hdltools?)
+    * gtkwave (included in hdltools)
+    * netlist2svg (https://github.com/nturley/netlistsvg ; included in hdltools)
+    * vcd2png (https://github.com/naelolaiz/hdltools/blob/main/vcd2png.py)
+    * gtkwavexport (https://github.com/naelolaiz/learning_fpga/blob/main/scripts/gtkwave_export.py; vcd2png.py in hdltools)
+  * ...
+  * multisim?
 
 # Definition of the project
  - The idea is to use a simple project (a blinking LED at first, at the end I can test more involved code, as defining and using ROM blocks...) to test different approaches for build systems for FPGA.
