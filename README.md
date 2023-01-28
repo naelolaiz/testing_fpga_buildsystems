@@ -6,7 +6,7 @@ Project to test different build system environments for FPGA.
   * cmake
 * Tools:
   * open source
-    * ghdl (included in hdltools)
+    * ghdl (included in [hdltools](https://github.com/naelolaiz/hdltools))
     * yosys (included in hdltools)
     * openFPGA (TODO: include in hdltools?)
     * gtkwave (included in hdltools)
